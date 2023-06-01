@@ -1,4 +1,4 @@
-Pipeline for the analysis of the linkage disequilibrium between deleterious in a population with 182 *Capsella grandiflora* individuals (data from Josephs et al., 2015) and in 33 *Capsella orientalis* individuals (data from Agren et al., 2014; Huang et al., 2018; Kryvokhyzha et al., 2019). The list of accessions can be found in `Accession_SRA_Number/ID_ind`.
+##### Pipeline for the analysis of the linkage disequilibrium between deleterious in a population with 182 *Capsella grandiflora* individuals (data from Josephs et al., 2015) and in 33 *Capsella orientalis* individuals (data from Agren et al., 2014; Huang et al., 2018; Kryvokhyzha et al., 2019). The list of accessions can be found in `Accession_SRA_Number/ID_ind`.
 
 To run the pipeline correctly, shell scripts should be executed in the order indicated by their number. 
 

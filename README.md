@@ -10,7 +10,7 @@ To run the scripts in `5_Building_Sift_DB/` the annotation of the reference geno
 
 To run the scripts in `6_LD_Analysis` the sequence of *Neslia paniculata* needs to be added to `Neslia_sequence/`.
 
-References:
+###References:
 
 <div class="csl-entry">Ågren, J. A., Wang, W., Koenig, D., Neuffer, B., Weigel, D., &#38; Wright, S. I. (2014). Mating system shifts and transposable element evolution in the plant genus Capsella. <i>BMC Genomics</i>, <i>15</i>(1), 602. https://doi.org/10.1186/1471-2164-15-602</div>
 

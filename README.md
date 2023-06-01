@@ -1,1 +1,1 @@
-Pipeline for the analysis of the linkage disequilibrium between deleterious in a population of Capsella grandiflora (data from 
+# Pipeline for the analysis of the linkage disequilibrium between deleterious in a population with 182 *Capsella grandiflora* individuals (data from Josephs et al., 2015) and 33 *Capsella orientalis* individuals (data from ). The list of accessions is in `Accession_SRA_Number/ID_ind`. 

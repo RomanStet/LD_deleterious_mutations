@@ -2,7 +2,7 @@ Pipeline for the analysis of the linkage disequilibrium between deleterious in a
 
 To run the pipeline correctly, shell scripts should be executed in the order indicated by their number. 
 
-To run the scripts in `3_Mapping/` the file `picard.jar` (available [here] (https://github.com/broadinstitute/picard/releases/tag/3.0.0)) needs to be added in `Picard/`.
+To run the scripts in `3_Mapping/` the file `picard.jar` (available [here](https://github.com/broadinstitute/picard/releases/tag/3.0.0)) needs to be added in `Picard/`.
 
 To run the scripts in `3_Mapping/`, `4_Variant_Calling/` and `5_Building_Sift_DB/` the reference genome Cr145 of *Capsella rubella* `Cr145.fasta` needs to be added to `Reference_genome/`.
 

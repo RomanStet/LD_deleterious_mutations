@@ -6,7 +6,9 @@ To run the scripts in `3_Mapping/` the file `picard.jar` (available [here](https
 
 To run the scripts in `3_Mapping/`, `4_Variant_Calling/` and `5_Building_Sift_DB/` the reference genome Cr145 of *Capsella rubella* `Cr145.fasta` needs to be added to `Reference_genome/`.
 
-To run the scripts in `5_Building_Sift_DB/` the annotation of the reference genome of *Capsella rubella* `Cr145.gff`
+To run the scripts in `5_Building_Sift_DB/` the annotation of the reference genome of *Capsella rubella* `Cr145.gff` needs to be added to `Reference_genome/` and the protein database `uniref1000.fasta` (available [here](https://www.uniprot.org/help/downloads)) to `Protein_DB/`.
+
+To run the scripts in `6_LD_Analysis` the sequence of *Neslia paniculata* needs to be added to `Neslia_sequence/`.
 
 References:
 
